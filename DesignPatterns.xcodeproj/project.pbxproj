@@ -13,6 +13,34 @@
 		5E145589286D932B003FAC2E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E145587286D932B003FAC2E /* Main.storyboard */; };
 		5E14558B286D932D003FAC2E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E14558A286D932D003FAC2E /* Assets.xcassets */; };
 		5E14558E286D932D003FAC2E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E14558C286D932D003FAC2E /* LaunchScreen.storyboard */; };
+		5E145596286D937B003FAC2E /* Sengleton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E145595286D937B003FAC2E /* Sengleton.swift */; };
+		5E145599286D9B6F003FAC2E /* FactoryMethod.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E145598286D9B6F003FAC2E /* FactoryMethod.swift */; };
+		5E14559C286D9C47003FAC2E /* Jumping.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E14559B286D9C47003FAC2E /* Jumping.swift */; };
+		5E14559E286D9D2C003FAC2E /* Squatrs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E14559D286D9D2C003FAC2E /* Squatrs.swift */; };
+		5E1455A0286D9E16003FAC2E /* FactoryExersize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E14559F286D9E16003FAC2E /* FactoryExersize.swift */; };
+		5E1455A3286DAB1D003FAC2E /* Chair.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1455A2286DAB1D003FAC2E /* Chair.swift */; };
+		5E1455A6286DABD7003FAC2E /* Sofa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1455A5286DABD7003FAC2E /* Sofa.swift */; };
+		5E1455A8286DABFB003FAC2E /* Tabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1455A7286DABFB003FAC2E /* Tabel.swift */; };
+		5E1455AB286DAC92003FAC2E /* ChairBadroom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1455AA286DAC92003FAC2E /* ChairBadroom.swift */; };
+		5E1455AD286DAD09003FAC2E /* CofeTabelBedroom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1455AC286DAD09003FAC2E /* CofeTabelBedroom.swift */; };
+		5E1455AF286DAD6B003FAC2E /* SofaBebroom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1455AE286DAD6B003FAC2E /* SofaBebroom.swift */; };
+		5E1455B2286DADD2003FAC2E /* ChairKitchen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1455B1286DADD2003FAC2E /* ChairKitchen.swift */; };
+		5E1455B4286DAEB2003FAC2E /* KitchenTabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1455B3286DAEB2003FAC2E /* KitchenTabel.swift */; };
+		5E1455B6286DAF09003FAC2E /* KitchenSofa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1455B5286DAF09003FAC2E /* KitchenSofa.swift */; };
+		5E1455B9286DAFC3003FAC2E /* AbstractFactoryProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1455B8286DAFC3003FAC2E /* AbstractFactoryProtocol.swift */; };
+		5E1455BC286DB0DA003FAC2E /* BedroomFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1455BB286DB0DA003FAC2E /* BedroomFactory.swift */; };
+		5E1455BE286DB292003FAC2E /* KitchenFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1455BD286DB292003FAC2E /* KitchenFactory.swift */; };
+		5E1455C3286DEB32003FAC2E /* PrototypeProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1455C2286DEB32003FAC2E /* PrototypeProtocol.swift */; };
+		5E3E7FA2286EEB6E004D1CDD /* CatalogPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E3E7FA1286EEB6E004D1CDD /* CatalogPresenter.swift */; };
+		5E3E7FA4286EEC4B004D1CDD /* CatalogInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E3E7FA3286EEC4B004D1CDD /* CatalogInteractor.swift */; };
+		5E3E7FA6286EEDF5004D1CDD /* CatalogPresenterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E3E7FA5286EEDF5004D1CDD /* CatalogPresenterViewController.swift */; };
+		5E3E7FA8286EEFF4004D1CDD /* ModuleBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E3E7FA7286EEFF4004D1CDD /* ModuleBuilder.swift */; };
+		5E3E7FAA286EF090004D1CDD /* CatalogBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E3E7FA9286EF090004D1CDD /* CatalogBuilder.swift */; };
+		5E3E7FAD28701203004D1CDD /* GoogleAuthenticator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E3E7FAC28701203004D1CDD /* GoogleAuthenticator.swift */; };
+		5E3E7FAF28701473004D1CDD /* TwitterAuthenticator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E3E7FAE28701473004D1CDD /* TwitterAuthenticator.swift */; };
+		5E3E7FB328701B94004D1CDD /* AuthenticationServises.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E3E7FB228701B94004D1CDD /* AuthenticationServises.swift */; };
+		5E3E7FB628701E7B004D1CDD /* GoogleAuthebticatorAdapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E3E7FB528701E7B004D1CDD /* GoogleAuthebticatorAdapter.swift */; };
+		5E3E7FB828702210004D1CDD /* TwitterAuthenticatorAdapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E3E7FB728702210004D1CDD /* TwitterAuthenticatorAdapter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +52,34 @@
 		5E14558A286D932D003FAC2E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5E14558D286D932D003FAC2E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5E14558F286D932D003FAC2E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5E145595286D937B003FAC2E /* Sengleton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sengleton.swift; sourceTree = "<group>"; };
+		5E145598286D9B6F003FAC2E /* FactoryMethod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactoryMethod.swift; sourceTree = "<group>"; };
+		5E14559B286D9C47003FAC2E /* Jumping.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Jumping.swift; sourceTree = "<group>"; };
+		5E14559D286D9D2C003FAC2E /* Squatrs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Squatrs.swift; sourceTree = "<group>"; };
+		5E14559F286D9E16003FAC2E /* FactoryExersize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactoryExersize.swift; sourceTree = "<group>"; };
+		5E1455A2286DAB1D003FAC2E /* Chair.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chair.swift; sourceTree = "<group>"; };
+		5E1455A5286DABD7003FAC2E /* Sofa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sofa.swift; sourceTree = "<group>"; };
+		5E1455A7286DABFB003FAC2E /* Tabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tabel.swift; sourceTree = "<group>"; };
+		5E1455AA286DAC92003FAC2E /* ChairBadroom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChairBadroom.swift; sourceTree = "<group>"; };
+		5E1455AC286DAD09003FAC2E /* CofeTabelBedroom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CofeTabelBedroom.swift; sourceTree = "<group>"; };
+		5E1455AE286DAD6B003FAC2E /* SofaBebroom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SofaBebroom.swift; sourceTree = "<group>"; };
+		5E1455B1286DADD2003FAC2E /* ChairKitchen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChairKitchen.swift; sourceTree = "<group>"; };
+		5E1455B3286DAEB2003FAC2E /* KitchenTabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KitchenTabel.swift; sourceTree = "<group>"; };
+		5E1455B5286DAF09003FAC2E /* KitchenSofa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KitchenSofa.swift; sourceTree = "<group>"; };
+		5E1455B8286DAFC3003FAC2E /* AbstractFactoryProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AbstractFactoryProtocol.swift; sourceTree = "<group>"; };
+		5E1455BB286DB0DA003FAC2E /* BedroomFactory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BedroomFactory.swift; sourceTree = "<group>"; };
+		5E1455BD286DB292003FAC2E /* KitchenFactory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KitchenFactory.swift; sourceTree = "<group>"; };
+		5E1455C2286DEB32003FAC2E /* PrototypeProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrototypeProtocol.swift; sourceTree = "<group>"; };
+		5E3E7FA1286EEB6E004D1CDD /* CatalogPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatalogPresenter.swift; sourceTree = "<group>"; };
+		5E3E7FA3286EEC4B004D1CDD /* CatalogInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatalogInteractor.swift; sourceTree = "<group>"; };
+		5E3E7FA5286EEDF5004D1CDD /* CatalogPresenterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatalogPresenterViewController.swift; sourceTree = "<group>"; };
+		5E3E7FA7286EEFF4004D1CDD /* ModuleBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModuleBuilder.swift; sourceTree = "<group>"; };
+		5E3E7FA9286EF090004D1CDD /* CatalogBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatalogBuilder.swift; sourceTree = "<group>"; };
+		5E3E7FAC28701203004D1CDD /* GoogleAuthenticator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoogleAuthenticator.swift; sourceTree = "<group>"; };
+		5E3E7FAE28701473004D1CDD /* TwitterAuthenticator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwitterAuthenticator.swift; sourceTree = "<group>"; };
+		5E3E7FB228701B94004D1CDD /* AuthenticationServises.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthenticationServises.swift; sourceTree = "<group>"; };
+		5E3E7FB528701E7B004D1CDD /* GoogleAuthebticatorAdapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoogleAuthebticatorAdapter.swift; sourceTree = "<group>"; };
+		5E3E7FB728702210004D1CDD /* TwitterAuthenticatorAdapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwitterAuthenticatorAdapter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,8 +119,140 @@
 				5E14558A286D932D003FAC2E /* Assets.xcassets */,
 				5E14558C286D932D003FAC2E /* LaunchScreen.storyboard */,
 				5E14558F286D932D003FAC2E /* Info.plist */,
+				5E3E7FAB287011CB004D1CDD /* AdapterPattern */,
+				5E3E7FA0286EEB17004D1CDD /* Builder */,
+				5E1455BF286DEAF3003FAC2E /* PrototypeProtocol */,
+				5E145597286D9381003FAC2E /* Singleton */,
+				5E14559A286D9C2F003FAC2E /* FactoryMethod */,
+				5E1455A1286DAACA003FAC2E /* AbstractFactory */,
 			);
 			path = DesignPatterns;
+			sourceTree = "<group>";
+		};
+		5E145597286D9381003FAC2E /* Singleton */ = {
+			isa = PBXGroup;
+			children = (
+				5E145595286D937B003FAC2E /* Sengleton.swift */,
+			);
+			path = Singleton;
+			sourceTree = "<group>";
+		};
+		5E14559A286D9C2F003FAC2E /* FactoryMethod */ = {
+			isa = PBXGroup;
+			children = (
+				5E145598286D9B6F003FAC2E /* FactoryMethod.swift */,
+				5E14559B286D9C47003FAC2E /* Jumping.swift */,
+				5E14559D286D9D2C003FAC2E /* Squatrs.swift */,
+				5E14559F286D9E16003FAC2E /* FactoryExersize.swift */,
+			);
+			path = FactoryMethod;
+			sourceTree = "<group>";
+		};
+		5E1455A1286DAACA003FAC2E /* AbstractFactory */ = {
+			isa = PBXGroup;
+			children = (
+				5E1455BA286DB0AA003FAC2E /* Classes */,
+				5E1455A4286DABB8003FAC2E /* Protocols */,
+			);
+			path = AbstractFactory;
+			sourceTree = "<group>";
+		};
+		5E1455A4286DABB8003FAC2E /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				5E1455B7286DAF95003FAC2E /* AbstractFactoryProt */,
+				5E1455A2286DAB1D003FAC2E /* Chair.swift */,
+				5E1455A5286DABD7003FAC2E /* Sofa.swift */,
+				5E1455A7286DABFB003FAC2E /* Tabel.swift */,
+			);
+			path = Protocols;
+			sourceTree = "<group>";
+		};
+		5E1455A9286DAC44003FAC2E /* FurnitureBedroom */ = {
+			isa = PBXGroup;
+			children = (
+				5E1455AA286DAC92003FAC2E /* ChairBadroom.swift */,
+				5E1455AC286DAD09003FAC2E /* CofeTabelBedroom.swift */,
+				5E1455AE286DAD6B003FAC2E /* SofaBebroom.swift */,
+			);
+			path = FurnitureBedroom;
+			sourceTree = "<group>";
+		};
+		5E1455B0286DADAC003FAC2E /* KitchenFurniture */ = {
+			isa = PBXGroup;
+			children = (
+				5E1455B1286DADD2003FAC2E /* ChairKitchen.swift */,
+				5E1455B3286DAEB2003FAC2E /* KitchenTabel.swift */,
+				5E1455B5286DAF09003FAC2E /* KitchenSofa.swift */,
+			);
+			path = KitchenFurniture;
+			sourceTree = "<group>";
+		};
+		5E1455B7286DAF95003FAC2E /* AbstractFactoryProt */ = {
+			isa = PBXGroup;
+			children = (
+				5E1455B8286DAFC3003FAC2E /* AbstractFactoryProtocol.swift */,
+			);
+			path = AbstractFactoryProt;
+			sourceTree = "<group>";
+		};
+		5E1455BA286DB0AA003FAC2E /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				5E1455A9286DAC44003FAC2E /* FurnitureBedroom */,
+				5E1455B0286DADAC003FAC2E /* KitchenFurniture */,
+				5E1455BB286DB0DA003FAC2E /* BedroomFactory.swift */,
+				5E1455BD286DB292003FAC2E /* KitchenFactory.swift */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		5E1455BF286DEAF3003FAC2E /* PrototypeProtocol */ = {
+			isa = PBXGroup;
+			children = (
+				5E1455C2286DEB32003FAC2E /* PrototypeProtocol.swift */,
+			);
+			path = PrototypeProtocol;
+			sourceTree = "<group>";
+		};
+		5E3E7FA0286EEB17004D1CDD /* Builder */ = {
+			isa = PBXGroup;
+			children = (
+				5E3E7FA7286EEFF4004D1CDD /* ModuleBuilder.swift */,
+				5E3E7FA5286EEDF5004D1CDD /* CatalogPresenterViewController.swift */,
+				5E3E7FA1286EEB6E004D1CDD /* CatalogPresenter.swift */,
+				5E3E7FA3286EEC4B004D1CDD /* CatalogInteractor.swift */,
+				5E3E7FA9286EF090004D1CDD /* CatalogBuilder.swift */,
+			);
+			path = Builder;
+			sourceTree = "<group>";
+		};
+		5E3E7FAB287011CB004D1CDD /* AdapterPattern */ = {
+			isa = PBXGroup;
+			children = (
+				5E3E7FB428701E4A004D1CDD /* Adapter */,
+				5E3E7FB128701508004D1CDD /* Auth */,
+			);
+			path = AdapterPattern;
+			sourceTree = "<group>";
+		};
+		5E3E7FB128701508004D1CDD /* Auth */ = {
+			isa = PBXGroup;
+			children = (
+				5E3E7FB228701B94004D1CDD /* AuthenticationServises.swift */,
+				5E3E7FAC28701203004D1CDD /* GoogleAuthenticator.swift */,
+				5E3E7FAE28701473004D1CDD /* TwitterAuthenticator.swift */,
+			);
+			path = Auth;
+			sourceTree = "<group>";
+		};
+		5E3E7FB428701E4A004D1CDD /* Adapter */ = {
+			isa = PBXGroup;
+			children = (
+				5E3E7FB528701E7B004D1CDD /* GoogleAuthebticatorAdapter.swift */,
+				5E3E7FB728702210004D1CDD /* TwitterAuthenticatorAdapter.swift */,
+			);
+			path = Adapter;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,9 +326,37 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E1455A3286DAB1D003FAC2E /* Chair.swift in Sources */,
+				5E3E7FA6286EEDF5004D1CDD /* CatalogPresenterViewController.swift in Sources */,
+				5E14559E286D9D2C003FAC2E /* Squatrs.swift in Sources */,
+				5E3E7FAD28701203004D1CDD /* GoogleAuthenticator.swift in Sources */,
+				5E3E7FA8286EEFF4004D1CDD /* ModuleBuilder.swift in Sources */,
 				5E145586286D932B003FAC2E /* ViewController.swift in Sources */,
+				5E1455B2286DADD2003FAC2E /* ChairKitchen.swift in Sources */,
+				5E145596286D937B003FAC2E /* Sengleton.swift in Sources */,
+				5E1455A6286DABD7003FAC2E /* Sofa.swift in Sources */,
+				5E1455AD286DAD09003FAC2E /* CofeTabelBedroom.swift in Sources */,
+				5E14559C286D9C47003FAC2E /* Jumping.swift in Sources */,
+				5E3E7FAF28701473004D1CDD /* TwitterAuthenticator.swift in Sources */,
+				5E3E7FA4286EEC4B004D1CDD /* CatalogInteractor.swift in Sources */,
+				5E1455BC286DB0DA003FAC2E /* BedroomFactory.swift in Sources */,
+				5E1455B9286DAFC3003FAC2E /* AbstractFactoryProtocol.swift in Sources */,
+				5E3E7FAA286EF090004D1CDD /* CatalogBuilder.swift in Sources */,
 				5E145582286D932B003FAC2E /* AppDelegate.swift in Sources */,
+				5E145599286D9B6F003FAC2E /* FactoryMethod.swift in Sources */,
+				5E1455C3286DEB32003FAC2E /* PrototypeProtocol.swift in Sources */,
+				5E3E7FB328701B94004D1CDD /* AuthenticationServises.swift in Sources */,
+				5E1455B6286DAF09003FAC2E /* KitchenSofa.swift in Sources */,
+				5E3E7FB828702210004D1CDD /* TwitterAuthenticatorAdapter.swift in Sources */,
+				5E1455AF286DAD6B003FAC2E /* SofaBebroom.swift in Sources */,
+				5E1455B4286DAEB2003FAC2E /* KitchenTabel.swift in Sources */,
+				5E1455AB286DAC92003FAC2E /* ChairBadroom.swift in Sources */,
+				5E1455A8286DABFB003FAC2E /* Tabel.swift in Sources */,
+				5E1455BE286DB292003FAC2E /* KitchenFactory.swift in Sources */,
+				5E3E7FB628701E7B004D1CDD /* GoogleAuthebticatorAdapter.swift in Sources */,
 				5E145584286D932B003FAC2E /* SceneDelegate.swift in Sources */,
+				5E3E7FA2286EEB6E004D1CDD /* CatalogPresenter.swift in Sources */,
+				5E1455A0286D9E16003FAC2E /* FactoryExersize.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
